@@ -22,16 +22,23 @@ Una aplicación web dinámica y moderna para visualizar el clima en tiempo real 
 
 ## Uso
 
-1. Abre `index.html` en tu navegador
-2. Permite el acceso a tu ubicación
+1. Clona el repositorio
+2. Abre `index.html` en tu navegador
 3. ¡Disfruta del clima en tiempo real!
 
 ## Tecnologías
 
-- HTML5
-- CSS3 (Animaciones y Gradientes)
-- JavaScript (Fetch API)
-- Open-Meteo API (Datos del clima)
+- **Fronend**: HTML5 semántico
+- **Estilos**: CSS3 (Glassmorphism, Animaciones Avanzadas)
+- **Lógica**: JavaScript ES6+ (Fetch API, Geolocation API)
+- **API**: [Open-Meteo](https://open-meteo.com/) (Sin API key requerida)
+
+## Estructura del Proyecto
+
+- `index.html`: Estructura principal
+- `style.css`: Estilos y animaciones
+- `main.js`: Lógica y conexión con API
+- `license.txt`: Licencia MIT
 
 ## API
 
